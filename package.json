@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "graphql": "^16.6.0",
+    "mysql": "^2.11.1",
+    "nodemon": "^1.10.2",
+    "restify": "^4.1.1",
+    "soap": "^0.16.0"
+  }
+}
